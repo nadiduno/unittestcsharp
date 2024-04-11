@@ -1,0 +1,11 @@
+# Arquivos temporários gerados pelo Visual Studio
+.vs/
+bin/
+obj/
+# Arquivos de configuração específicos do usuário
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+# Logs de compilação e erros
+*.log
